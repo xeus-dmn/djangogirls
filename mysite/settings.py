@@ -26,7 +26,8 @@ SECRET_KEY = 'n069kq!wejc&v9mv8v9!bruaxqop$zyov&k#8q)m+s+u#jnh)e'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0',
-                 '.pythonanywhere.com', '.herokuapp.com']
+                 '.pythonanywhere.com', '.herokuapp.com', '192.168.229.121',
+		 '192.168.229.1']
 
 
 # Application definition
